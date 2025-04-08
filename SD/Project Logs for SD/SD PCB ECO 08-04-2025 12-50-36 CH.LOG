@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=SD Member=CON?
+Added Component: Designator=S?(MicroSD TF V5)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=SD Member=Component S? Micro SD card TF5
+Added Room: Name=SD

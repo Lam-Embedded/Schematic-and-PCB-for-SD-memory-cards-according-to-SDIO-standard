@@ -1,0 +1,4 @@
+Added Component: Designator=P?(MicroSD)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=SD Member=Component P? Micro SD card
+Added Room: Name=SD
